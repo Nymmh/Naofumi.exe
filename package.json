@@ -1,0 +1,15 @@
+{
+  "name": "naofumi.exe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "dependencies": {
+    "require-reload": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nymh",
+  "license": "ISC"
+}
